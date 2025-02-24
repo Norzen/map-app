@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    display: inline-block;
+    background-color: red;
+ }
+ .button {
+    padding: 0;
+    width: 100px;
+    border: 0;
+    background-color: #2c970b;
+    color: #333;
+    cursor: pointer;
+    outline: 0;
+    font-size: 20px;
+ }
